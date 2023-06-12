@@ -1,0 +1,1 @@
+const isChecked = require("./exportBoolean");
